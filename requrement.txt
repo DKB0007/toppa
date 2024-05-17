@@ -1,2 +1,2 @@
-openai
-streamlit
+ import openai
+ import streamlit
